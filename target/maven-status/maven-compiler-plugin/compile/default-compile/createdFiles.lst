@@ -1,0 +1,5 @@
+ar\gonzalotulin\cac\crud\controlador\AppServlet.class
+ar\gonzalotulin\cac\crud\modelo\Conexion.class
+ar\gonzalotulin\cac\crud\modelo\ModeloMySQL.class
+ar\gonzalotulin\cac\crud\modelo\Modelo.class
+ar\gonzalotulin\cac\crud\modelo\Jugador.class
